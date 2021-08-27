@@ -1,5 +1,5 @@
 # Bootstrap--Aula-01
-Atividade da aula de Bootstrap da Etec
+Atividade Atividade Proposta 
 
 <h2> Critéiros de Avaliação: </h2>
 
@@ -11,4 +11,15 @@ Atividade da aula de Bootstrap da Etec
 
 
 ![bs](https://user-images.githubusercontent.com/50750452/129966028-933cb279-0c95-47c3-a38a-55e40d1bedd9.JPG)
+
+
+<h3> Atividade Realizada </h3> 
+
+
+
+![atividadePronta](https://user-images.githubusercontent.com/50750452/131061476-5df682af-cd49-467c-9b77-ce69aa45a855.jpg)
+
+
+
+
 
